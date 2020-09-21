@@ -1,0 +1,254 @@
+{
+    "AL": {
+        "vpn": "al17.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "AR": {
+        "vpn": "ar8.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "AT": {
+        "vpn": "at45.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "AU": {
+        "vpn": "au302.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "BA": {
+        "vpn": "ba5.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "BE": {
+        "vpn": "be129.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "BG": {
+        "vpn": "bg37.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "BR": {
+        "vpn": "br38.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CA": {
+        "vpn": "ca720.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CH": {
+        "vpn": "ch138.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CL": {
+        "vpn": "cl10.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CR": {
+        "vpn": "cr13.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CY": {
+        "vpn": "cy12.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "CZ": {
+        "vpn": "cz90.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "DE": {
+        "vpn": "de705.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "DK": {
+        "vpn": "dk96.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "EE": {
+        "vpn": "ee41.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "FI": {
+        "vpn": "fi95.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "FR": {
+        "vpn": "fr356.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "GB": {
+        "vpn": "uk1155.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "GE": {
+        "vpn": "ge8.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "GR": {
+        "vpn": "gr18.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "HK": {
+        "vpn": "hk153.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "HR": {
+        "vpn": "hr18.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "HU": {
+        "vpn": "hu28.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "ID": {
+        "vpn": "id9.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "IE": {
+        "vpn": "ie75.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "IL": {
+        "vpn": "il25.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "IN": {
+        "vpn": "in45.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "IT": {
+        "vpn": "it144.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "JP": {
+        "vpn": "jp458.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "KR": {
+        "vpn": "kr23.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "LV": {
+        "vpn": "lv37.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "MD": {
+        "vpn": "md11.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "MK": {
+        "vpn": "mk8.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "MX": {
+        "vpn": "mx37.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "MY": {
+        "vpn": "my21.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "NL": {
+        "vpn": "nl701.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "NO": {
+        "vpn": "no108.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "NZ": {
+        "vpn": "nz37.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "PL": {
+        "vpn": "pl100.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "PT": {
+        "vpn": "pt36.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "RO": {
+        "vpn": "ro55.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "RS": {
+        "vpn": "rs43.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "SE": {
+        "vpn": "se319.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "SG": {
+        "vpn": "sg180.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "SK": {
+        "vpn": "sk32.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "TH": {
+        "vpn": "th10.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "TR": {
+        "vpn": "tr30.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "TW": {
+        "vpn": "tw30.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "UA": {
+        "vpn": "ua22.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "US": {
+        "vpn": "us3186.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "VN": {
+        "vpn": "vn10.nordvpn.com.udp1194.ovpn",
+        "note": ""
+    },
+    "ZA": {
+        "vpn": "za57.nordvpn.com.udp.ovpn",
+        "note": ""
+    },
+    "RU": {
+        "vpn": "Russia.Moscow.UDP.ovpn",
+        "note": ""
+    },
+    "PH": {
+        "vpn": "Philippines.Baguio.UDP.ovpn",
+        "note": ""
+    },
+    "PK": {
+        "vpn": "Pakistan.Karachi.UDP.ovpn",
+        "note": ""
+    },
+    "SI": {
+        "vpn": "Slovenia.Vrhnika.UDP.ovpn",
+        "note": ""
+    },
+    "BY": {
+        "vpn": "Belarus.Minsk.UDP.ovpn",
+        "note": "DNS:82.209.228.234"
+    },
+    "CN": {
+        "vpn": "China.SichuanSheng.Chengdu.UDP.ovpn",
+        "note": "DNS:202.46.34.75"
+    },
+    "CO": {
+        "vpn": "Colombia.SanAndres.UDP.ovpn",
+        "note": "DNS:200.75.87.107"
+    },
+    "KE": {
+        "vpn": "Kenya.Nairobi.UDP.ovpn",
+        "note": "DNS:197.248.116.74"
+    },
+    "KH": {
+        "vpn": "Cambodia.PhnomPenh.UDP.ovpn",
+        "note": "DNS:175.100.120.27"
+    }
+}
