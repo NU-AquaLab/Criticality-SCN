@@ -1,0 +1,128 @@
+{
+    "cn-northwest-1": {
+        "city": "Ningxia",
+        "code": "CN",
+        "latitude": "37.1987", 
+        "longitude": "106.1581"
+    },
+    "cn-north-1": {
+        "city": "Beijing",
+        "code": "CN", 
+        "latitude": "39.9042", 
+        "longitude": "116.4074"
+    },
+    "us-east-2": {
+        "city": "Ohio",
+        "code": "US",
+        "latitude": "40.4173", 
+        "longitude": "-82.9071"
+    },
+    "us-east-1": {
+        "city": "N. Virginia",
+        "code": "US",
+        "latitude": "37.4316", 
+        "longitude": "-78.6569"
+    },
+    "us-west-1": {
+        "city": "N. California",
+        "code": "US",
+        "latitude": "36.7783", 
+        "longitude": "-119.4179"
+    },
+    "us-west-2": {
+        "city": "Oregon",
+        "code": "US",
+        "latitude": "43.8041", 
+        "longitude": "-120.5542"
+    },
+    "ap-east-1": {
+        "city": "Hong Kong",
+        "code": "HK",
+        "latitude": "22.3193", 
+        "longitude": "114.1694"
+    },
+    "ap-south-1": {
+        "city": "Mumbai",
+        "code": "IN",
+        "latitude": "19.076", 
+        "longitude": "72.8777"
+    },
+    "ap-northeast-3": {
+        "city": "Osaka",
+        "code": "JP",
+        "latitude": "34.6937", 
+        "longitude": "135.5023"
+    },
+    "ap-northeast-2": {
+        "city": "Seoul",
+        "code": "KR",
+        "latitude": "37.5665", 
+        "longitude": "126.9780"
+    },
+    "ap-southeast-1": {
+        "city": "Singapore",
+        "code": "SG",
+        "latitude": "1.3521", 
+        "longitude": "103.8198"
+    },
+    "ap-southeast-2": {
+        "city": "Syndey",
+        "code": "AU",
+        "latitude": "-33.8688", 
+        "longitude": "151.2093"
+    },
+    "ap-northeast-1": {
+        "city": "Tokyo",
+        "code": "JP",
+        "latitude": "35.6762", 
+        "longitude": "139.6503"
+    },
+    "ca-central-1": {
+        "city": "",
+        "code": "CA",
+        "latitude": "56.1304", 
+        "longitude": "-106.3468"
+    },
+    "eu-central-1": {
+        "city": "Frankfurt",
+        "code": "DE",
+        "latitude": "50.1109", 
+        "longitude": "8.6821"
+    },
+    "eu-west-1": {
+        "city": "",
+        "code": "IE",
+        "latitude": "53.1424", 
+        "longitude": "-7.6921"
+    },
+    "eu-west-2": {
+        "city": "London",
+        "code": "GB",
+        "latitude": "51.5074", 
+        "longitude": "-0.1278"
+    },
+    "eu-west-3": {
+        "city": "Paris",
+        "code": "FR",
+        "latitude": "48.8566", 
+        "longitude": "2.3522"
+    },
+    "eu-north-1": {
+        "city": "Stockholm",
+        "code": "SE",
+        "latitude": "59.3293", 
+        "longitude": "18.0686"
+    },
+    "me-south-1": {
+        "city": "",
+        "code": "BH",
+        "latitude": "26.0667", 
+        "longitude": "50.5577"
+    },
+    "sa-east-1": {
+        "city": "São Paulo",
+        "code": "BR",
+        "latitude": "-23.5505", 
+        "longitude": "-46.6333"
+    }
+}

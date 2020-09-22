@@ -1,0 +1,284 @@
+{
+    "australiac2": {
+        "city": "Canberra",
+        "code": "AU",
+        "latitude": "-35.2809", 
+        "longitude": "149.1300"
+    },
+    "australiac": {
+        "city": "Canberra",
+        "code": "AU",
+        "latitude": "-35.2809", 
+        "longitude": "149.1300"
+    },
+    "australiaeast": {
+        "city": "New South Wales",
+        "code": "AU",
+        "latitude": "-31.2532", 
+        "longitude": "146.9211"
+    },
+    "australiasoutheast": {
+        "city": "Victoria",
+        "code": "AU",
+        "latitude": "-37.4713", 
+        "longitude": "144.7852"
+    },
+    "brazilsouth": {
+        "city": "Sao Paulo",
+        "code": "BR",
+        "latitude": "-23.5505", 
+        "longitude": "-46.6333"
+    },
+    "brazilse": {
+        "city": "",
+        "code": "BR",
+        "latitude": "-14.2350", 
+        "longitude": "-51.9253"
+    },
+    "canadacentral": {
+        "city": "Toronto",
+        "code": "CA",
+        "latitude": "43.6532", 
+        "longitude": "-79.3832"
+    },
+    "canadaeast": {
+        "city": "Quebec City",
+        "code": "CA",
+        "latitude": "46.8139", 
+        "longitude": "-71.2080"
+    },
+    "indiacentral": {
+        "city": "Pune",
+        "code": "IN",
+        "latitude": "18.5204", 
+        "longitude": "73.8567"
+    },
+    "uscentraleuap": {
+        "city": "Iowa",
+        "code": "US",
+        "latitude": "41.8780", 
+        "longitude": "-93.0977"
+    },
+    "uscentral": {
+        "city": "Iowa",
+        "code": "US",
+        "latitude": "41.8780", 
+        "longitude": "-93.0977"
+    },
+    "asiaeast": {
+        "city": "",
+        "code": "HK",
+        "latitude": "22.3193", 
+        "longitude": "114.1694"
+    },
+    "useast2euap": {
+        "city": "Virginia",
+        "code": "US",
+        "latitude": "37.4316", 
+        "longitude": "-78.6569"
+    },
+    "useast2": {
+        "city": "Virginia",
+        "code": "US",
+        "latitude": "37.4316", 
+        "longitude": "-78.6569"
+    },
+    "useast": {
+        "city": "Virginia",
+        "code": "US",
+        "latitude": "37.4316", 
+        "longitude": "-78.6569"
+    },
+    "francec": {
+        "city": "Paris",
+        "code": "FR",
+        "latitude": "48.8566", 
+        "longitude": "2.3522"
+    },
+    "frances": {
+        "city": "Marseille",
+        "code": "FR",
+        "latitude": "43.2965", 
+        "longitude": "5.3698"
+    },
+    "germanyn": {
+        "city": "Berlin",
+        "code": "DE",
+        "latitude": "52.5200", 
+        "longitude": "13.4050"
+    },
+    "germanywc": {
+        "city": "Frankfurt",
+        "code": "DE",
+        "latitude": "50.1109", 
+        "longitude": "8.6821"
+    },
+    "japaneast": {
+        "city": "Tokyo",
+        "code": "JP",
+        "latitude": "35.6804", 
+        "longitude": "139.7690"
+    },
+    "japanwest": {
+        "city": "Osaka",
+        "code": "JP",
+        "latitude": "34.6937", 
+        "longitude": "135.5023"
+    },
+    "koreacentral": {
+        "city": "Seoul",
+        "code": "KR",
+        "latitude": "37.5665", 
+        "longitude": "126.9780"
+    },
+    "koreasouth": {
+        "city": "Busan",
+        "code": "KR",
+        "latitude": "35.1796", 
+        "longitude": "129.0756"
+    },
+    "usnorth": {
+        "city": "Illinois",
+        "code": "US",
+        "latitude": "40.6331", 
+        "longitude": "-89.3985"
+    },
+    "europenorth": {
+        "city": "",
+        "code": "IE",
+        "latitude": "53.1424", 
+        "longitude": "-7.6921"
+    },
+    "norwaye": {
+        "city": "Oslo",
+        "code": "NO",
+        "latitude": "59.9139", 
+        "longitude": "10.7522"
+    },
+    "norwayw": {
+        "city": "Stavanger",
+        "code": "NO",
+        "latitude": "58.9700", 
+        "longitude": "5.7331"
+    },
+    "southafrican": {
+        "city": "Johannesburg",
+        "code": "ZA",
+        "latitude": "-26.2041", 
+        "longitude": "28.0473"
+    },
+    "southafricaw": {
+        "city": "Cape Town",
+        "code": "ZA",
+        "latitude": "-33.9249", 
+        "longitude": "18.4241"
+    },
+    "ussouth": {
+        "city": "Texas",
+        "code": "US",
+        "latitude": "31.9686", 
+        "longitude": "-99.9018"
+    },
+    "indiasouth": {
+        "city": "Chennai",
+        "code": "IN",
+        "latitude": "13.0827", 
+        "longitude": "80.2707"
+    },
+    "asiasoutheast": {
+        "city": "Singapore",
+        "code": "SG",
+        "latitude": "1.3521", 
+        "longitude": "103.8198"
+    },
+    "switzerlandn": {
+        "city": "Zurich",
+        "code": "CH",
+        "latitude": "47.3769", 
+        "longitude": "8.5417"
+    },
+    "switzerlandw": {
+        "city": "Geneva",
+        "code": "CH",
+        "latitude": "46.2044", 
+        "longitude": "6.1432"
+    },
+    "uaec": {
+        "city": "Abu Dhabi",
+        "code": "AE",
+        "latitude": "24.4539", 
+        "longitude": "54.3773"
+    },
+    "uaen": {
+        "city": "Dubai",
+        "code": "AE",
+        "latitude": "25.2048", 
+        "longitude": "55.2708"
+    },
+    "uknorth": {
+        "city": "",
+        "code": "GB",
+        "latitude": "55.3781", 
+        "longitude": "-3.4360"
+    },
+    "uksouth2": {
+        "city": "London",
+        "code": "GB",
+        "latitude": "51.5074", 
+        "longitude": "-0.1278"
+    },
+    "uksouth": {
+        "city": "London",
+        "code": "GB",
+        "latitude": "51.5074", 
+        "longitude": "-0.1278"
+    },
+    "ukwest": {
+        "city": "Cardiff",
+        "code": "GB",
+        "latitude": "51.4816", 
+        "longitude": "-3.1791"
+    },
+    "uswestcentral": {
+        "city": "Wyoming",
+        "code": "US",
+        "latitude": "43.0760", 
+        "longitude": "-107.2903"
+    },
+    "europewest": {
+        "city": "",
+        "code": "NL",
+        "latitude": "52.1326", 
+        "longitude": "5.2913"
+    },
+    "indiawest": {
+        "city": "Mumbai",
+        "code": "IN",
+        "latitude": "19.0760", 
+        "longitude": "72.8777"
+    },
+    "uswest2": {
+        "city": "Washington",
+        "code": "US",
+        "latitude": "47.7511", 
+        "longitude": "-120.7401"
+    },
+    "uswest": {
+        "city": "California",
+        "code": "US",
+        "latitude": "36.7783", 
+        "longitude": "-119.4179"
+    },
+    "chinaeast": {
+        "city": "Shanghai",
+        "code": "CN",
+        "latitude": "31.2304", 
+        "longitude": "121.4737"
+    },
+    "chinanorth": {
+        "city": "Beijing",
+        "code": "CN",
+        "latitude": "39.9042", 
+        "longitude": "116.4074"
+    }
+}
