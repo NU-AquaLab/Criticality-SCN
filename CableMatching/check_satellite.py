@@ -9,7 +9,7 @@ with open("../config.json", 'r') as fp:
     mongo_config = json.load(fp)["mongo_str"]
 mongo_client = MongoClient(mongo_config)
 
-db = sys.argv[2]
+db = sys.argv[1]
 
 traceroute_collection = mongo_client[db]["traceroutes"]
 sol_collection = mongo_client[db]["sol_bundles"]

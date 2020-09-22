@@ -231,11 +231,6 @@ def traceroute_all(db):
     
   
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='IP Geolocation.')
-    parser.add_argument('-d', type=str, required=True, help="Name of the Database")
-
-    args = parser.parse_args()
-
-    db = args.d
+    db = sys.argv[1]
 
     traceroute_all(db)

@@ -12,7 +12,7 @@ with open("../config.json", 'r') as fp:
     ripe_config = config["ripe_api"]
 mongo_client = MongoClient(mongo_config)
 
-db = sys.argv[2]
+db = sys.argv[1]
 
 measurement_collection = mongo_client[db]["measurement_ids"]
 traceroute_collection = mongo_client[db]["traceroutes"]

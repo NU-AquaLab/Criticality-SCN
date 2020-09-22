@@ -504,9 +504,9 @@ def do_drivability(db):
         save_drivable_cache()
 
 if __name__ == "__main__":
-    db = sys.argv[2]
+    db = sys.argv[1]
 
-    if sys.argv[1] == "sol":
+    if sys.argv[2] == "sol":
         do_speedoflight(db)
-    elif sys.argv[1] == "drive":
+    elif sys.argv[2] == "drive":
         do_drivability(db)

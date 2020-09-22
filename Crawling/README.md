@@ -1,8 +1,12 @@
 # Crawling
 
 ## Set Up
+python 3.6 is required to run this code
+
 We recommend using database for data storage. 
-For our experiment, we used [MongoDB](https://www.mongodb.com/)
+For our experiment, we use [MongoDB](https://www.mongodb.com/)
+
+In the `config.json` file, please specify the MongoDB connection string under `mongo_str` to allow the scripts to connect to the database. 
 
 ### Output Schema
 We design our crawler to output two set of data for each run on each country. 

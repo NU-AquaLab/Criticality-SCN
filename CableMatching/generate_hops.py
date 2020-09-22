@@ -6,7 +6,7 @@ with open("../config.json", 'r') as fp:
     mongo_config = json.load(fp)["mongo_str"]
 mongo_client = MongoClient(mongo_config)
 
-db = sys.argv[2]
+db = sys.argv[1]
 
 geolocation_collection = mongo_client[db]["router_ip_geolocations"]
 route_collection = mongo_client[db]["country_routes"]
