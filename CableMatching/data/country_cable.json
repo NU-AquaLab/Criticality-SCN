@@ -1,0 +1,1518 @@
+{
+    "US": [
+        "Americas-I North",
+        "Lynn Canal Fiber",
+        "Saint Maarten Puerto Rico Network One (SMPR-1)",
+        "SEA-US",
+        "Global Caribbean Network (GCN)",
+        "Japan-U.S. Cable Network (JUS)",
+        "Pacific Crossing-1 (PC-1)",
+        "BRUSA",
+        "JUPITER",
+        "FASTER",
+        "Hawaiki",
+        "Colombia-Florida Subsea Fiber (CFX-1)",
+        "Hong Kong-Americas (HKA)",
+        "ACS Alaska-Oregon Network (AKORN)",
+        "MAREA",
+        "Maya-1",
+        "Dunant",
+        "Pan American (PAN-AM)",
+        "Alaska United Southeast",
+        "Southern Cross NEXT",
+        "Alaska United East",
+        "Mid-Atlantic Crossing (MAC)",
+        "Asia-America Gateway (AAG) Cable System",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "ARCOS",
+        "Taino-Carib",
+        "GTMO-1",
+        "Southern Caribbean Fiber",
+        "Atlantic Crossing-1 (AC-1)",
+        "Trans-Pacific Express (TPE) Cable System",
+        "Paniolo Cable Network",
+        "Southern Cross Cable Network (SCCN)",
+        "NYNJ-1",
+        "St. Thomas-St. Croix System",
+        "South Atlantic Express (SAEx1)",
+        "Americas-II",
+        "Tata TGN-Pacific",
+        "NorthStar",
+        "Columbus-III",
+        "Pacific Light Cable Network (PLCN)",
+        "Bay to Bay Express (BtoBE) Cable System",
+        "Antillas 1",
+        "Pan-American Crossing (PAC)",
+        "TERRA-Aleutian",
+        "Yellow",
+        "GTT Atlantic",
+        "TERRA SW",
+        "Honotua",
+        "Bahamas 2",
+        "HICS (Hawaii Inter-Island Cable System)",
+        "Crosslake Fibre",
+        "Kodiak Kenai Fiber Link (KKFL)",
+        "South America-1 (SAm-1)",
+        "New Cross Pacific (NCP) Cable System",
+        "Quintillion Subsea Cable Network",
+        "Tata TGN-Atlantic",
+        "Monet",
+        "American Samoa-Hawaii (ASH)",
+        "Gemini Bermuda",
+        "Unity/EAC-Pacific",
+        "WALL-LI",
+        "Telstra Endeavour",
+        "Challenger Bermuda-1 (CB-1)",
+        "GTMO-PR",
+        "Deep Blue Cable",
+        "Curie",
+        "sea2shore",
+        "Havfrue/AEC-2",
+        "FLAG Atlantic-1 (FA-1)",
+        "Columbus-II b",
+        "Alaska United Turnagain Arm (AUTA)",
+        "Seabras-1",
+        "TAT-14",
+        "Bahamas Internet Cable System (BICS)",
+        "GlobeNet",
+        "Pacific Caribbean Cable System (PCCS)",
+        "Apollo",
+        "America Movil Submarine Cable System-1 (AMX-1)",
+        "AEC-1",
+        "Alaska United West",
+        "HIFN (Hawaii Island Fibre Network)"
+    ],
+    "YE": [
+        "SeaMeWe-5",
+        "FALCON",
+        "Aden-Djibouti",
+        "Asia Africa Europe-1 (AAE-1)"
+    ],
+    "DJ": [
+        "Europe India Gateway (EIG)",
+        "PEACE Cable",
+        "Eastern Africa Submarine System (EASSy)",
+        "Aden-Djibouti",
+        "Djibouti Africa Regional Express (DARE)",
+        "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+        "Asia Africa Europe-1 (AAE-1)",
+        "SEACOM/Tata TGN-Eurasia",
+        "Africa-1",
+        "SeaMeWe-5",
+        "SeaMeWe-3"
+    ],
+    "GR": [
+        "OTEGLOBE Kokkini-Bari",
+        "Silphium",
+        "MedNautilus Submarine System",
+        "Italy-Greece 1",
+        "Aphrodite 2",
+        "Asia Africa Europe-1 (AAE-1)",
+        "Adria-1",
+        "SeaMeWe-3"
+    ],
+    "HR": [
+        "Adria-1",
+        "Italy-Croatia"
+    ],
+    "AL": [
+        "Adria-1",
+        "Italy-Albania"
+    ],
+    "IE": [
+        "Solas",
+        "Celtic",
+        "CeltixConnect-1 (CC-1)",
+        "Emerald Bridge Fibres",
+        "ESAT-2",
+        "ESAT-1",
+        "Havfrue/AEC-2",
+        "GTT Express",
+        "Pan European Crossing (UK-Ireland)",
+        "Geo-Eirgrid",
+        "Sirius South",
+        "AEC-1",
+        "CeltixConnect-2 (CC-2)",
+        "Ireland-France Cable-1 (IFC-1)",
+        "GTT Atlantic"
+    ],
+    "CI": [
+        "MainOne",
+        "SAT-3/WASC",
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "GH": [
+        "MainOne",
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)",
+        "Glo-1",
+        "SAT-3/WASC"
+    ],
+    "GM": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "GQ": [
+        "Ceiba-2",
+        "Ultramar GE",
+        "Ceiba-1",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "PT": [
+        "BUGIO",
+        "MainOne",
+        "Europe India Gateway (EIG)",
+        "Atlantis-2",
+        "Flores-Corvo Cable System",
+        "West African Cable System (WACS)",
+        "SAT-3/WASC",
+        "EllaLink",
+        "Azores Fiber Optic System (AFOS)",
+        "CAM Ring",
+        "Tata TGN-Western Europe",
+        "SeaMeWe-3",
+        "Columbus-III",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "GN": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "BJ": [
+        "SAT-3/WASC",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "SN": [
+        "MainOne",
+        "Atlantis-2",
+        "SAT-3/WASC",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "ZA": [
+        "IOX Cable System",
+        "South Atlantic Express (SAEx1)",
+        "Eastern Africa Submarine System (EASSy)",
+        "West African Cable System (WACS)",
+        "SAT-3/WASC",
+        "South Asia Express (SAEx2)",
+        "SEACOM/Tata TGN-Eurasia",
+        "Africa Coast to Europe (ACE)",
+        "Africa-1",
+        "Meltingpot Indianoceanic Submarine System (METISS)",
+        "SABR",
+        "SAFE"
+    ],
+    "SL": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "CM": [
+        "South Atlantic Inter Link (SAIL)",
+        "Nigeria Cameroon Submarine Cable System (NCSCS)",
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)",
+        "Ceiba-2",
+        "SAT-3/WASC"
+    ],
+    "NG": [
+        "MainOne",
+        "Nigeria Cameroon Submarine Cable System (NCSCS)",
+        "West African Cable System (WACS)",
+        "Glo-2",
+        "Africa Coast to Europe (ACE)",
+        "Glo-1",
+        "SAT-3/WASC"
+    ],
+    "GA": [
+        "SAT-3/WASC",
+        "Libreville-Port Gentil Cable",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "AO": [
+        "SAT-3/WASC",
+        "South Atlantic Cable System (SACS)",
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "LR": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "CD": [
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "MR": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "FR": [
+        "PEACE Cable",
+        "Corse-Continent 5 (CC5)",
+        "Med Cable Network",
+        "Circe South",
+        "IMEWE",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "TE North/TGN-Eurasia/SEACOM/Alexandros",
+        "Hawk",
+        "Atlas Offshore",
+        "Ireland-France Cable-1 (IFC-1)",
+        "FLAG Atlantic-1 (FA-1)",
+        "Dunant",
+        "TAT-14",
+        "Asia Africa Europe-1 (AAE-1)",
+        "INGRID",
+        "Corse-Continent 4 (CC4)",
+        "Apollo",
+        "High-capacity Undersea Guernsey Optical-fibre (HUGO)",
+        "Africa Coast to Europe (ACE)",
+        "Africa-1",
+        "SeaMeWe-3"
+    ],
+    "ST": [
+        "Ultramar GE",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "GW": [
+        "Africa Coast to Europe (ACE)"
+    ],
+    "NA": [
+        "West African Cable System (WACS)",
+        "Africa Coast to Europe (ACE)"
+    ],
+    "ES": [
+        "PENBAL-5",
+        "Subcan Link 1",
+        "Columbus-III",
+        "Oran-Valencia (ORVAL)",
+        "Subcan Link 2",
+        "Tata TGN-Western Europe",
+        "MAREA",
+        "FLAG Europe-Asia (FEA)",
+        "Balalink",
+        "West African Cable System (WACS)",
+        "Pencan-8",
+        "Pencan-9",
+        "Estepona-Tetouan",
+        "Atlantis-2",
+        "TRANSCAN-3",
+        "ALPAL-2",
+        "Canalink",
+        "BARSAV",
+        "Africa Coast to Europe (ACE)",
+        "SAT-3/WASC"
+    ],
+    "SO": [
+        "PEACE Cable",
+        "Gulf2Africa (G2A)",
+        "Eastern Africa Submarine System (EASSy)",
+        "Djibouti Africa Regional Express (DARE)",
+        "Africa-1"
+    ],
+    "SA": [
+        "Europe India Gateway (EIG)",
+        "FLAG Europe-Asia (FEA)",
+        "SeaMeWe-5",
+        "Saudi Arabia-Sudan-1 (SAS-1)",
+        "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+        "Tata TGN-Gulf",
+        "Asia Africa Europe-1 (AAE-1)",
+        "IMEWE",
+        "Africa-1",
+        "Saudi Arabia-Sudan-2 (SAS-2)",
+        "FALCON",
+        "SEACOM/Tata TGN-Eurasia",
+        "SeaMeWe-3",
+        "SeaMeWe-4",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "AE": [
+        "Transworld (TW1)",
+        "Europe India Gateway (EIG)",
+        "FLAG Europe-Asia (FEA)",
+        "The East African Marine System (TEAMS)",
+        "Fiber Optic Gulf (FOG)",
+        "Qatar-U.A.E. Submarine Cable System",
+        "SeaMeWe-5",
+        "Bay of Bengal Gateway (BBG)",
+        "Tata TGN-Gulf",
+        "UAE-Iran",
+        "Asia Africa Europe-1 (AAE-1)",
+        "IMEWE",
+        "Africa-1",
+        "SeaMeWe-4",
+        "FALCON",
+        "SeaMeWe-3",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "PK": [
+        "Transworld (TW1)",
+        "PEACE Cable",
+        "Silk Route Gateway (SRG-1)",
+        "IMEWE",
+        "Asia Africa Europe-1 (AAE-1)",
+        "Africa-1",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "SeaMeWe-3"
+    ],
+    "MG": [
+        "Africa-1",
+        "Meltingpot Indianoceanic Submarine System (METISS)",
+        "Lower Indian Ocean Network (LION)",
+        "Eastern Africa Submarine System (EASSy)"
+    ],
+    "KE": [
+        "The East African Marine System (TEAMS)",
+        "Lower Indian Ocean Network 2 (LION2)",
+        "PEACE Cable",
+        "Eastern Africa Submarine System (EASSy)",
+        "Djibouti Africa Regional Express (DARE)",
+        "SEACOM/Tata TGN-Eurasia",
+        "Africa-1"
+    ],
+    "SD": [
+        "Eastern Africa Submarine System (EASSy)",
+        "Saudi Arabia-Sudan-1 (SAS-1)",
+        "Africa-1",
+        "Saudi Arabia-Sudan-2 (SAS-2)",
+        "FALCON"
+    ],
+    "EG": [
+        "Hawk",
+        "Aletar",
+        "Europe India Gateway (EIG)",
+        "FLAG Europe-Asia (FEA)",
+        "PEACE Cable",
+        "SeaMeWe-5",
+        "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+        "Asia Africa Europe-1 (AAE-1)",
+        "IMEWE",
+        "Africa-1",
+        "SEACOM/Tata TGN-Eurasia",
+        "FALCON",
+        "SeaMeWe-4",
+        "SeaMeWe-3",
+        "TE North/TGN-Eurasia/SEACOM/Alexandros",
+        "Taba-Aqaba"
+    ],
+    "VE": [
+        "Pan American (PAN-AM)",
+        "Americas-II",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "ALBA-1",
+        "ARCOS",
+        "GlobeNet",
+        "Venezuela Festoon"
+    ],
+    "JM": [
+        "East-West",
+        "Deep Blue Cable",
+        "ALBA-1",
+        "Cayman-Jamaica Fiber System",
+        "Fibralink",
+        "Colombia-Florida Subsea Fiber (CFX-1)"
+    ],
+    "CU": [
+        "GTMO-1",
+        "ALBA-1",
+        "GTMO-PR"
+    ],
+    "SY": [
+        "BERYTAR",
+        "Aletar",
+        "UGARIT"
+    ],
+    "AW": [
+        "Alonso de Ojeda",
+        "Deep Blue Cable",
+        "Pan American (PAN-AM)",
+        "Pacific Caribbean Cable System (PCCS)"
+    ],
+    "CW": [
+        "Alonso de Ojeda",
+        "Deep Blue Cable",
+        "Amerigo Vespucci",
+        "Americas-II",
+        "Jerry Newton",
+        "ARCOS",
+        "Pacific Caribbean Cable System (PCCS)",
+        "ECLink"
+    ],
+    "DZ": [
+        "Med Cable Network",
+        "ALPAL-2",
+        "SeaMeWe-4",
+        "Oran-Valencia (ORVAL)"
+    ],
+    "CO": [
+        "San Andres Isla Tolu Submarine Cable (SAIT)",
+        "Deep Blue Cable",
+        "Maya-1",
+        "Pan American (PAN-AM)",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "ARCOS",
+        "America Movil Submarine Cable System-1 (AMX-1)",
+        "GlobeNet",
+        "Pacific Caribbean Cable System (PCCS)",
+        "South America-1 (SAm-1)",
+        "Colombia-Florida Subsea Fiber (CFX-1)"
+    ],
+    "MX": [
+        "Maya-1",
+        "Gulf of California Cable",
+        "ARCOS",
+        "America Movil Submarine Cable System-1 (AMX-1)",
+        "Pan-American Crossing (PAC)"
+    ],
+    "BR": [
+        "South Atlantic Inter Link (SAIL)",
+        "South Atlantic Express (SAEx1)",
+        "Americas-II",
+        "Malbec",
+        "South Atlantic Cable System (SACS)",
+        "Tannat",
+        "EllaLink",
+        "Brazilian Festoon",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "BRUSA",
+        "ARBR",
+        "Seabras-1",
+        "GlobeNet",
+        "South America-1 (SAm-1)",
+        "Atlantis-2",
+        "America Movil Submarine Cable System-1 (AMX-1)",
+        "Monet",
+        "Junior",
+        "SABR"
+    ],
+    "GT": [
+        "South America-1 (SAm-1)",
+        "ARCOS",
+        "America Movil Submarine Cable System-1 (AMX-1)"
+    ],
+    "DO": [
+        "East-West",
+        "Deep Blue Cable",
+        "ARCOS",
+        "America Movil Submarine Cable System-1 (AMX-1)",
+        "Antillas 1",
+        "South America-1 (SAm-1)",
+        "Fibralink"
+    ],
+    "AS": [
+        "American Samoa-Hawaii (ASH)",
+        "Samoa-American Samoa (SAS)",
+        "Hawaiki"
+    ],
+    "GF": [
+        "Kanawa",
+        "Americas-II"
+    ],
+    "MQ": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)",
+        "Kanawa",
+        "Americas-II"
+    ],
+    "TT": [
+        "Deep Blue Cable",
+        "Americas-II",
+        "Southern Caribbean Fiber",
+        "Suriname-Guyana Submarine Cable System (SG-SCS)",
+        "Eastern Caribbean Fiber System (ECFS)",
+        "TT-1",
+        "ECLink"
+    ],
+    "NL": [
+        "Amerigo Vespucci",
+        "Atlantic Crossing-1 (AC-1)",
+        "Jerry Newton",
+        "TAT-14",
+        "Farland North",
+        "Circe North",
+        "UK-Netherlands 14",
+        "Ulysses 2",
+        "COBRAcable",
+        "Concerto"
+    ],
+    "PH": [
+        "APCN-2",
+        "Pacific Light Cable Network (PLCN)",
+        "Tata TGN-Intra Asia (TGN-IA)",
+        "EAC-C2C",
+        "JUPITER",
+        "Asia-America Gateway (AAG) Cable System",
+        "Boracay-Palawan Submarine Cable System",
+        "SEA-US",
+        "Southeast Asia Japan Cable (SJC)",
+        "Palawa-Iloilo Cable System",
+        "SeaMeWe-3",
+        "National Digital Transmission Network (NDTN)",
+        "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "PLDT Domestic Fiber Optic Network (DFON)"
+    ],
+    "JP": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "Japan-Guam-Australia North (JGA-N)",
+        "Hokkaido-Sakhalin Cable System (HSCS)",
+        "Tata TGN-Pacific",
+        "Australia-Japan Cable (AJC)",
+        "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "Russia-Japan Cable Network (RJCN)",
+        "APCN-2",
+        "Japan-U.S. Cable Network (JUS)",
+        "Asia Pacific Gateway (APG)",
+        "Pacific Crossing-1 (PC-1)",
+        "JUPITER",
+        "FASTER",
+        "FLAG North Asia Loop/REACH North Asia Loop",
+        "FLAG Europe-Asia (FEA)",
+        "Guam Okinawa Kyushu Incheon (GOKI)",
+        "Trans-Pacific Express (TPE) Cable System",
+        "New Cross Pacific (NCP) Cable System",
+        "EAC-C2C",
+        "Unity/EAC-Pacific",
+        "Korea-Japan Cable Network (KJCN)",
+        "SeaMeWe-3",
+        "Southeast Asia Japan Cable (SJC)"
+    ],
+    "CN": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "APCN-2",
+        "FLAG Europe-Asia (FEA)",
+        "Asia Pacific Gateway (APG)",
+        "Cross Straits Cable Network",
+        "EAC-C2C",
+        "Taiwan Strait Express-1 (TSE-1)",
+        "Trans-Pacific Express (TPE) Cable System",
+        "SeaMeWe-3",
+        "New Cross Pacific (NCP) Cable System",
+        "Southeast Asia Japan Cable (SJC)"
+    ],
+    "SG": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "Indonesia Global Gateway (IGG) System",
+        "Batam Singapore Cable System (BSCS)",
+        "Tata TGN-Tata Indicom",
+        "Asia-America Gateway (AAG) Cable System",
+        "i2i Cable Network (i2icn)",
+        "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "APCN-2",
+        "Moratelindo International Cable System-1 (MIC-1)",
+        "Asia Pacific Gateway (APG)",
+        "JAKABARE",
+        "Tata TGN-Intra Asia (TGN-IA)",
+        "South Asia Express (SAEx2)",
+        "Bay to Bay Express (BtoBE) Cable System",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "Matrix Cable System",
+        "SEA Cable Exchange-1 (SEAX-1)",
+        "PGASCOM",
+        "Thailand-Indonesia-Singapore (TIS)",
+        "Singapore-Myanmar (SIGMAR)",
+        "EAC-C2C",
+        "Australia-Singapore Cable (ASC)",
+        "INDIGO-West",
+        "Jakarta-Bangka-Bintan-Batam-Singapore (B3JS)",
+        "SeaMeWe-3",
+        "Southeast Asia Japan Cable (SJC)"
+    ],
+    "MY": [
+        "Sistem Kabel Rakyat 1Malaysia (SKR1M)",
+        "Dumai-Melaka Cable System",
+        "Asia-America Gateway (AAG) Cable System",
+        "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "APCN-2",
+        "Asia Pacific Gateway (APG)",
+        "Bay of Bengal Gateway (BBG)",
+        "Batam Dumai Melaka (BDM) Cable System",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "FLAG Europe-Asia (FEA)",
+        "SEA Cable Exchange-1 (SEAX-1)",
+        "Batam-Rengit Cable System (BRCS)",
+        "East-West Submarine Cable System",
+        "Asia Africa Europe-1 (AAE-1)",
+        "SAFE",
+        "JASUKA",
+        "Malaysia-Cambodia-Thailand (MCT) Cable",
+        "Labuan-Brunei Submarine Cable",
+        "SeaMeWe-3"
+    ],
+    "HK": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "APCN-2",
+        "FLAG Europe-Asia (FEA)",
+        "Hong Kong-Guam (HK-G)",
+        "Asia Pacific Gateway (APG)",
+        "Pacific Light Cable Network (PLCN)",
+        "Tata TGN-Intra Asia (TGN-IA)",
+        "EAC-C2C",
+        "Asia-America Gateway (AAG) Cable System",
+        "Bay to Bay Express (BtoBE) Cable System",
+        "Hong Kong-Americas (HKA)",
+        "SeaMeWe-3",
+        "Asia Africa Europe-1 (AAE-1)",
+        "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "FLAG North Asia Loop/REACH North Asia Loop",
+        "Southeast Asia Japan Cable (SJC)"
+    ],
+    "KR": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "APCN-2",
+        "FLAG Europe-Asia (FEA)",
+        "Asia Pacific Gateway (APG)",
+        "EAC-C2C",
+        "New Cross Pacific (NCP) Cable System",
+        "Trans-Pacific Express (TPE) Cable System",
+        "Korea-Japan Cable Network (KJCN)",
+        "SeaMeWe-3",
+        "FLAG North Asia Loop/REACH North Asia Loop"
+    ],
+    "TW": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "APCN-2",
+        "Asia Pacific Gateway (APG)",
+        "Pacific Light Cable Network (PLCN)",
+        "Cross Straits Cable Network",
+        "EAC-C2C",
+        "New Cross Pacific (NCP) Cable System",
+        "FASTER",
+        "Taiwan Strait Express-1 (TSE-1)",
+        "Trans-Pacific Express (TPE) Cable System",
+        "Hong Kong-Americas (HKA)",
+        "SeaMeWe-3",
+        "FLAG North Asia Loop/REACH North Asia Loop"
+    ],
+    "CY": [
+        "POSEIDON",
+        "Tamares North",
+        "Turcyos-1",
+        "UGARIT",
+        "MedNautilus Submarine System",
+        "Aphrodite 2",
+        "CADMOS",
+        "Lev Submarine System",
+        "Turcyos-2",
+        "Hawk",
+        "SeaMeWe-3",
+        "TE North/TGN-Eurasia/SEACOM/Alexandros"
+    ],
+    "GB": [
+        "BT Highlands and Islands Submarine Cable System",
+        "FARICE-1",
+        "Celtic",
+        "SHEFA-2",
+        "Isles of Scilly Cable",
+        "North Sea Connect (NSC)",
+        "Geo-Eirgrid",
+        "Lanis-1",
+        "Circe North",
+        "Sirius South",
+        "UK-Netherlands 14",
+        "CeltixConnect-2 (CC-2)",
+        "Circe South",
+        "Glo-1",
+        "England Cable",
+        "UK-Channel Islands-7",
+        "Lanis-3",
+        "Lanis-2",
+        "ESAT-2",
+        "Swansea-Brean",
+        "E-LLAN",
+        "GTT Express",
+        "UK-Channel Islands-8",
+        "Ulysses 2",
+        "Sirius North",
+        "Channel Islands-9 Liberty Submarine Cable",
+        "Tata TGN-Western Europe",
+        "Yellow",
+        "GTT Atlantic",
+        "FLAG Atlantic-1 (FA-1)",
+        "Guernsey-Jersey-4",
+        "FLAG Europe-Asia (FEA)",
+        "Solas",
+        "CeltixConnect-1 (CC-1)",
+        "Atlantic Crossing-1 (AC-1)",
+        "Emerald Bridge Fibres",
+        "BT-MT-1",
+        "TAT-14",
+        "Farland North",
+        "Scotland-Northern Ireland 2",
+        "Tangerine",
+        "Tampnet Offshore FOC Network",
+        "Europe India Gateway (EIG)",
+        "Northern Lights",
+        "Tata TGN-Atlantic",
+        "ESAT-1",
+        "Apollo",
+        "High-capacity Undersea Guernsey Optical-fibre (HUGO)",
+        "Pan European Crossing (UK-Ireland)",
+        "Concerto",
+        "Pan European Crossing (UK-Belgium)",
+        "Scotland-Northern Ireland 1",
+        "SeaMeWe-3"
+    ],
+    "NZ": [
+        "Southern Cross Cable Network (SCCN)",
+        "Aqualink",
+        "Nelson-Levin",
+        "Tasman Global Access (TGA) Cable",
+        "Southern Cross NEXT",
+        "Hawaiki"
+    ],
+    "AR": [
+        "Atlantis-2",
+        "Malbec",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "Unisur",
+        "Bicentenario",
+        "ARBR",
+        "South America-1 (SAm-1)",
+        "ARSAT Submarine Fiber Optic Cable"
+    ],
+    "BZ": [
+        "Strategic Evolution Underwater Link (SEUL)",
+        "ARCOS"
+    ],
+    "NI": [
+        "ARCOS"
+    ],
+    "BS": [
+        "Bahamas Internet Cable System (BICS)",
+        "Bahamas 2",
+        "ARCOS",
+        "Bahamas Domestic Submarine Network (BDSNi)"
+    ],
+    "PA": [
+        "Deep Blue Cable",
+        "Maya-1",
+        "Pan American (PAN-AM)",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "ARCOS",
+        "Pan-American Crossing (PAC)",
+        "Pacific Caribbean Cable System (PCCS)"
+    ],
+    "TC": [
+        "Deep Blue Cable",
+        "ARCOS"
+    ],
+    "HN": [
+        "Maya-1",
+        "ARCOS"
+    ],
+    "CR": [
+        "Pan-American Crossing (PAC)",
+        "Maya-1",
+        "ARCOS"
+    ],
+    "OM": [
+        "Transworld (TW1)",
+        "Europe India Gateway (EIG)",
+        "Pishgaman Oman Iran (POI) Network",
+        "Gulf2Africa (G2A)",
+        "Silk Route Gateway (SRG-1)",
+        "Bay of Bengal Gateway (BBG)",
+        "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+        "Tata TGN-Gulf",
+        "Asia Africa Europe-1 (AAE-1)",
+        "SeaMeWe-5",
+        "FALCON",
+        "OMRAN/EPEG Cable System",
+        "SeaMeWe-3",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "IT": [
+        "Vodafone Malta-Sicily Cable System (VMSCS)",
+        "Trapani-Kelibia",
+        "MedNautilus Submarine System",
+        "Lev Submarine System",
+        "Janna",
+        "Columbus-III",
+        "HANNIBAL System",
+        "Italy-Croatia",
+        "Middle East North Africa (MENA) Cable System/Gulf Bridge International",
+        "GO-1 Mediterranean Cable System",
+        "IMEWE",
+        "Melita 1",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "Italy-Albania",
+        "OTEGLOBE Kokkini-Bari",
+        "FLAG Europe-Asia (FEA)",
+        "Asia Africa Europe-1 (AAE-1)",
+        "Jonah",
+        "Italy-Monaco",
+        "Italy-Libya",
+        "Didon",
+        "Italy-Greece 1",
+        "BARSAV",
+        "Italy-Malta",
+        "SeaMeWe-3"
+    ],
+    "QA": [
+        "Fiber Optic Gulf (FOG)",
+        "Qatar-U.A.E. Submarine Cable System",
+        "Tata TGN-Gulf",
+        "Asia Africa Europe-1 (AAE-1)",
+        "FALCON",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "IN": [
+        "Bharat Lanka Cable System",
+        "Europe India Gateway (EIG)",
+        "FLAG Europe-Asia (FEA)",
+        "IOX Cable System",
+        "Tata TGN-Tata Indicom",
+        "Chennai-Andaman & Nicobar Islands Cable",
+        "Bay of Bengal Gateway (BBG)",
+        "South Asia Express (SAEx2)",
+        "WARF Submarine Cable",
+        "i2i Cable Network (i2icn)",
+        "Asia Africa Europe-1 (AAE-1)",
+        "IMEWE",
+        "SEACOM/Tata TGN-Eurasia",
+        "SeaMeWe-4",
+        "FALCON",
+        "SeaMeWe-3",
+        "SAFE",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "MM": [
+        "SeaMeWe-5",
+        "Singapore-Myanmar (SIGMAR)",
+        "SeaMeWe-3",
+        "Asia Africa Europe-1 (AAE-1)"
+    ],
+    "TH": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "FLAG Europe-Asia (FEA)",
+        "Malaysia-Cambodia-Thailand (MCT) Cable",
+        "Asia Pacific Gateway (APG)",
+        "Thailand-Indonesia-Singapore (TIS)",
+        "Asia-America Gateway (AAG) Cable System",
+        "Asia Africa Europe-1 (AAE-1)",
+        "SeaMeWe-4",
+        "SeaMeWe-3"
+    ],
+    "KH": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "Malaysia-Cambodia-Thailand (MCT) Cable",
+        "Asia Africa Europe-1 (AAE-1)"
+    ],
+    "VN": [
+        "Southeast Asia - Japan Cable 2 (SJC2)",
+        "Asia Pacific Gateway (APG)",
+        "Tata TGN-Intra Asia (TGN-IA)",
+        "Asia-America Gateway (AAG) Cable System",
+        "Asia Africa Europe-1 (AAE-1)",
+        "SeaMeWe-3"
+    ],
+    "GU": [
+        "HANTRU1 Cable System",
+        "Hong Kong-Guam (HK-G)",
+        "Guam Okinawa Kyushu Incheon (GOKI)",
+        "Japan-Guam-Australia North (JGA-N)",
+        "Mariana-Guam Cable",
+        "Tata TGN-Pacific",
+        "Asia-America Gateway (AAG) Cable System",
+        "SEA-US",
+        "Atisa",
+        "Japan-Guam-Australia South (JGA-S)",
+        "PIPE Pacific Cable-1 (PPC-1)",
+        "Australia-Japan Cable (AJC)"
+    ],
+    "BN": [
+        "Labuan-Brunei Submarine Cable",
+        "SeaMeWe-3",
+        "Southeast Asia Japan Cable (SJC)",
+        "Asia-America Gateway (AAG) Cable System"
+    ],
+    "MP": [
+        "Mariana-Guam Cable",
+        "Atisa"
+    ],
+    "DE": [
+        "CANTAT-3",
+        "Elektra-GlobalConnect 1 (GC1)",
+        "Germany-Denmark 3",
+        "C-Lion1",
+        "Atlantic Crossing-1 (AC-1)",
+        "TAT-14",
+        "GlobalConnect-KPN",
+        "Germany-Denmark 2",
+        "Fehmarn B\u00e4lt",
+        "SeaMeWe-3"
+    ],
+    "CV": [
+        "West African Cable System (WACS)",
+        "EllaLink",
+        "Atlantis-2"
+    ],
+    "MA": [
+        "SeaMeWe-3",
+        "Canalink",
+        "Atlas Offshore",
+        "Estepona-Tetouan"
+    ],
+    "AU": [
+        "Tasman Global Access (TGA) Cable",
+        "Coral Sea Cable System (CSCS)",
+        "Gondwana-1",
+        "Australia-Japan Cable (AJC)",
+        "Hawaiki",
+        "Southern Cross NEXT",
+        "Japan-Guam-Australia South (JGA-S)",
+        "North West Cable System",
+        "Basslink",
+        "PIPE Pacific Cable-1 (PPC-1)",
+        "Bass Strait-1",
+        "Bass Strait-2",
+        "Southern Cross Cable Network (SCCN)",
+        "Australia-Papua New Guinea-2 (APNG-2)",
+        "INDIGO-Central",
+        "Australia-Singapore Cable (ASC)",
+        "INDIGO-West",
+        "SeaMeWe-3",
+        "Telstra Endeavour"
+    ],
+    "PG": [
+        "Australia-Papua New Guinea-2 (APNG-2)",
+        "Coral Sea Cable System (CSCS)",
+        "Kumul Domestic Submarine Cable System",
+        "PNG LNG",
+        "PIPE Pacific Cable-1 (PPC-1)"
+    ],
+    "ID": [
+        "Dumai-Melaka Cable System",
+        "Indonesia Global Gateway (IGG) System",
+        "Link 5 Phase-2",
+        "Link 2 Phase-1",
+        "Batam Singapore Cable System (BSCS)",
+        "Sumatera Bangka Cable System (SBCS)",
+        "SEA-US",
+        "Tarakan Selor Cable System (TSCS)",
+        "Link 1 Phase-1",
+        "Moratelindo International Cable System-1 (MIC-1)",
+        "SMPCS Packet-1",
+        "Jambi-Batam Cable System (JIBA)",
+        "JAKABARE",
+        "SMPCS Packet-2",
+        "Mataram Kupang Cable System (MKCS)",
+        "Link 4 Phase-2",
+        "Batam Dumai Melaka (BDM) Cable System",
+        "JaKa2LaDeMa",
+        "Luwuk Tutuyan Cable System (LTCS)",
+        "SeaMeWe-5",
+        "Link 2 Phase-2",
+        "Matrix Cable System",
+        "Palapa Ring East",
+        "SEA Cable Exchange-1 (SEAX-1)",
+        "PASULI",
+        "PGASCOM",
+        "Link 3 Phase-1",
+        "Jakarta Surabaya Cable System (JAYABAYA)",
+        "Java Bali Cable System (JBCS)",
+        "SJJK",
+        "Batam-Rengit Cable System (BRCS)",
+        "Thailand-Indonesia-Singapore (TIS)",
+        "East-West Submarine Cable System",
+        "Link 3 Phase-2",
+        "Palapa Ring Middle",
+        "BALOK",
+        "S-U-B Cable System",
+        "JASUKA",
+        "Dumai Medan Cable System (DMCS)",
+        "Palapa Ring West",
+        "Australia-Singapore Cable (ASC)",
+        "INDIGO-West",
+        "Link 1 Phase-2",
+        "Kumul Domestic Submarine Cable System",
+        "Jakarta-Bangka-Bintan-Batam-Singapore (B3JS)",
+        "SeaMeWe-3"
+    ],
+    "CX": [
+        "Australia-Singapore Cable (ASC)"
+    ],
+    "KM": [
+        "Eastern Africa Submarine System (EASSy)",
+        "Avassa",
+        "FLY-LION3",
+        "Comoros Domestic Cable System"
+    ],
+    "YT": [
+        "Avassa",
+        "FLY-LION3",
+        "Lower Indian Ocean Network 2 (LION2)"
+    ],
+    "HT": [
+        "Deep Blue Cable",
+        "Fibralink",
+        "Bahamas Domestic Submarine Network (BDSNi)"
+    ],
+    "FI": [
+        "BCS North - Phase 2",
+        "BCS North - Phase 1",
+        "Botnia",
+        "C-Lion1",
+        "Sweden-Finland 4 (SFS-4)",
+        "Sweden-Finland Link (SFL)",
+        "Finland-Estonia 3 (EESF-3)",
+        "Finland Estonia Connection (FEC)",
+        "Finland-Estonia 2 (EESF-2)",
+        "Baltic Sea Submarine Cable"
+    ],
+    "SE": [
+        "Scandinavian Ring North",
+        "GlobalConnect 2 (GC2)",
+        "Baltic Sea Submarine Cable",
+        "Energinet Laeso-Varberg",
+        "NordBaltEurope",
+        "Latvia-Sweden 1 (LV-SE 1)",
+        "Sweden-Estonia (EE-S 1)",
+        "BCS North - Phase 1",
+        "Botnia",
+        "Denmark-Sweden 16",
+        "Denmark-Sweden 15",
+        "Kattegat 1",
+        "Sweden-Finland 4 (SFS-4)",
+        "Sweden-Finland Link (SFL)",
+        "IP-Only Denmark-Sweden",
+        "Danica North",
+        "Kattegat 2",
+        "Scandinavian Ring South",
+        "Sweden-Latvia",
+        "Baltica",
+        "BCS East-West Interlink",
+        "Denmark-Sweden 17",
+        "Denmark-Sweden 18"
+    ],
+    "EE": [
+        "Finland-Estonia 3 (EESF-3)",
+        "Finland Estonia Connection (FEC)",
+        "Finland-Estonia 2 (EESF-2)",
+        "Baltic Sea Submarine Cable",
+        "Sweden-Estonia (EE-S 1)"
+    ],
+    "DK": [
+        "Scandinavian Ring North",
+        "North Sea Connect (NSC)",
+        "GlobalConnect-KPN",
+        "GlobalConnect 2 (GC2)",
+        "Energinet Laeso-Varberg",
+        "Germany-Denmark 3",
+        "Denmark-Sweden 16",
+        "Havfrue/AEC-2",
+        "DANICE",
+        "Denmark-Norway 5",
+        "Germany-Denmark 2",
+        "Skagenfiber West",
+        "GlobalConnect 3 (GC3)",
+        "Skagenfiber East",
+        "Elektra-GlobalConnect 1 (GC1)",
+        "Denmark-Sweden 15",
+        "Denmark-Poland 2",
+        "Skagerrak 4",
+        "Kattegat 1",
+        "IP-Only Denmark-Sweden",
+        "TAT-14",
+        "Energinet Lyngsa-Laeso",
+        "Danica North",
+        "Denmark-Norway 6",
+        "Kattegat 2",
+        "Scandinavian Ring South",
+        "CANTAT-3",
+        "R\u00f8nne-R\u00f8dvig",
+        "Baltica",
+        "COBRAcable",
+        "Denmark-Sweden 17",
+        "Fehmarn B\u00e4lt",
+        "Denmark-Sweden 18"
+    ],
+    "PL": [
+        "Baltica",
+        "Denmark-Poland 2"
+    ],
+    "LK": [
+        "Bharat Lanka Cable System",
+        "Bay of Bengal Gateway (BBG)",
+        "WARF Submarine Cable",
+        "Dhiraagu-SLT Submarine Cable Network",
+        "SeaMeWe-4",
+        "SeaMeWe-5",
+        "SeaMeWe-3"
+    ],
+    "LV": [
+        "BCS East",
+        "Latvia-Sweden 1 (LV-SE 1)",
+        "Sweden-Latvia"
+    ],
+    "LT": [
+        "BCS East",
+        "BCS East-West Interlink",
+        "NordBaltEurope"
+    ],
+    "RU": [
+        "Kerch Strait Cable",
+        "BCS North - Phase 2",
+        "Georgia-Russia",
+        "Far East Submarine Cable System",
+        "Hokkaido-Sakhalin Cable System (HSCS)",
+        "Sakhalin-Kuril Islands Cable",
+        "Russia-Japan Cable Network (RJCN)"
+    ],
+    "LB": [
+        "BERYTAR",
+        "IMEWE",
+        "CADMOS"
+    ],
+    "UY": [
+        "Tannat",
+        "Unisur",
+        "Bicentenario"
+    ],
+    "NO": [
+        "Tverrlinken",
+        "Svalbard Undersea Cable System",
+        "Skagenfiber East",
+        "Skagerrak 4",
+        "Polar Circle Cable",
+        "Havfrue/AEC-2",
+        "Denmark-Norway 5",
+        "Bodo-Rost Cable",
+        "Denmark-Norway 6",
+        "Skagenfiber West",
+        "Tampnet Offshore FOC Network",
+        "England Cable"
+    ],
+    "IM": [
+        "Lanis-2",
+        "E-LLAN",
+        "BT-MT-1",
+        "Lanis-1",
+        "CeltixConnect-2 (CC-2)"
+    ],
+    "IC": [
+        "Canalink"
+    ],
+    "FO": [
+        "CANTAT-3",
+        "FARICE-1",
+        "SHEFA-2"
+    ],
+    "IS": [
+        "CANTAT-3",
+        "FARICE-1",
+        "DANICE",
+        "Greenland Connect"
+    ],
+    "VC": [
+        "Southern Caribbean Fiber",
+        "Caribbean Regional Communications Infrastructure Program (CARCIP)",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "GD": [
+        "Southern Caribbean Fiber",
+        "Caribbean Regional Communications Infrastructure Program (CARCIP)",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "BM": [
+        "GlobeNet",
+        "Gemini Bermuda",
+        "Challenger Bermuda-1 (CB-1)",
+        "Caribbean-Bermuda U.S. (CBUS)"
+    ],
+    "VG": [
+        "East-West",
+        "Deep Blue Cable",
+        "Caribbean-Bermuda U.S. (CBUS)",
+        "Eastern Caribbean Fiber System (ECFS)",
+        "Pacific Caribbean Cable System (PCCS)"
+    ],
+    "BG": [
+        "Caucasus Cable System"
+    ],
+    "GE": [
+        "Georgia-Russia",
+        "Caucasus Cable System"
+    ],
+    "KY": [
+        "Deep Blue Cable",
+        "Maya-1",
+        "Cayman-Jamaica Fiber System"
+    ],
+    "GG": [
+        "INGRID",
+        "Channel Islands-9 Liberty Submarine Cable",
+        "UK-Channel Islands-7"
+    ],
+    "FM": [
+        "SEA-US",
+        "Chuuk-Pohnpei Cable",
+        "HANTRU1 Cable System"
+    ],
+    "BE": [
+        "Pan European Crossing (UK-Belgium)",
+        "Tangerine",
+        "SeaMeWe-3",
+        "Concerto"
+    ],
+    "SB": [
+        "Interchange Cable Network 2 (ICN2)",
+        "Coral Sea Cable System (CSCS)"
+    ],
+    "CA": [
+        "St. Pierre and Miquelon Cable",
+        "Maple Leaf Fibre",
+        "GTT Express",
+        "Persona",
+        "Crosslake Fibre",
+        "GTT Atlantic",
+        "Greenland Connect"
+    ],
+    "CL": [
+        "Pan American (PAN-AM)",
+        "Curie",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "Fibra Optica Austral",
+        "Segunda FOS Canal de Chacao",
+        "FOS Quellon-Chacabuco",
+        "Prat",
+        "South America-1 (SAm-1)"
+    ],
+    "GY": [
+        "Deep Blue Cable",
+        "Suriname-Guyana Submarine Cable System (SG-SCS)"
+    ],
+    "BQ": [
+        "Deep Blue Cable"
+    ],
+    "SR": [
+        "Deep Blue Cable",
+        "Suriname-Guyana Submarine Cable System (SG-SCS)"
+    ],
+    "MV": [
+        "Nationwide Submarine Cable Ooredoo Maldives (NaSCOM)",
+        "Dhiraagu Cable Network",
+        "Dhiraagu-SLT Submarine Cable Network",
+        "WARF Submarine Cable"
+    ],
+    "TN": [
+        "HANNIBAL System",
+        "Didon",
+        "Trapani-Kelibia",
+        "SeaMeWe-4"
+    ],
+    "TZ": [
+        "Eastern Africa Submarine System (EASSy)",
+        "Seychelles to East Africa System (SEAS)",
+        "SEACOM/Tata TGN-Eurasia"
+    ],
+    "MZ": [
+        "Eastern Africa Submarine System (EASSy)",
+        "SEACOM/Tata TGN-Eurasia"
+    ],
+    "KN": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "BB": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "LC": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "MS": [
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "GP": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)",
+        "Global Caribbean Network (GCN)"
+    ],
+    "DM": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "SX": [
+        "Saint Maarten Puerto Rico Network One (SMPR-1)",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "AG": [
+        "Southern Caribbean Fiber",
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "AI": [
+        "Eastern Caribbean Fiber System (ECFS)"
+    ],
+    "GI": [
+        "Europe India Gateway (EIG)"
+    ],
+    "MC": [
+        "Italy-Monaco",
+        "Europe India Gateway (EIG)"
+    ],
+    "LY": [
+        "Europe India Gateway (EIG)",
+        "LFON (Libyan Fiber Optic Network)",
+        "Italy-Libya",
+        "Silphium",
+        "Tobrok-Emasaed Cable System"
+    ],
+    "KW": [
+        "Fiber Optic Gulf (FOG)",
+        "FALCON",
+        "Kuwait-Iran",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "IQ": [
+        "FALCON",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "IR": [
+        "Pishgaman Oman Iran (POI) Network",
+        "Kuwait-Iran",
+        "UAE-Iran",
+        "FALCON",
+        "OMRAN/EPEG Cable System",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "BH": [
+        "Fiber Optic Gulf (FOG)",
+        "FALCON",
+        "Tata TGN-Gulf",
+        "Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System"
+    ],
+    "JO": [
+        "FLAG Europe-Asia (FEA)",
+        "Taba-Aqaba"
+    ],
+    "MT": [
+        "Vodafone Malta-Sicily Cable System (VMSCS)",
+        "Italy-Malta",
+        "Malta-Gozo Cable",
+        "GO-1 Mediterranean Cable System",
+        "Melita 1"
+    ],
+    "NC": [
+        "Gondwana-1",
+        "Picot-1"
+    ],
+    "GL": [
+        "Greenland Connect North",
+        "Greenland Connect"
+    ],
+    "JE": [
+        "INGRID",
+        "Guernsey-Jersey-4",
+        "UK-Channel Islands-8"
+    ],
+    "MH": [
+        "HANTRU1 Cable System"
+    ],
+    "PF": [
+        "NATITUA",
+        "Honotua"
+    ],
+    "VU": [
+        "Interchange Cable Network 2 (ICN2)",
+        "Interchange Cable Network 1 (ICN1)"
+    ],
+    "FJ": [
+        "Southern Cross Cable Network (SCCN)",
+        "Tui-Samoa",
+        "Southern Cross NEXT",
+        "Interchange Cable Network 1 (ICN1)",
+        "Tonga Cable"
+    ],
+    "MU": [
+        "Lower Indian Ocean Network (LION)",
+        "IOX Cable System",
+        "Mauritius and Rodrigues Submarine Cable System (MARS)",
+        "Meltingpot Indianoceanic Submarine System (METISS)",
+        "SAFE"
+    ],
+    "IL": [
+        "Jonah",
+        "Tamares North",
+        "MedNautilus Submarine System",
+        "Lev Submarine System"
+    ],
+    "UA": [
+        "Kerch Strait Cable"
+    ],
+    "RE": [
+        "Meltingpot Indianoceanic Submarine System (METISS)",
+        "Lower Indian Ocean Network (LION)",
+        "SAFE"
+    ],
+    "TR": [
+        "Turcyos-1",
+        "MedNautilus Submarine System",
+        "SeaMeWe-5",
+        "SeaMeWe-3",
+        "Turcyos-2"
+    ],
+    "EC": [
+        "Pacific Caribbean Cable System (PCCS)",
+        "South America-1 (SAm-1)",
+        "Pan American (PAN-AM)"
+    ],
+    "PE": [
+        "South America-1 (SAm-1)",
+        "South American Crossing (SAC)/Latin American Nautilus (LAN)",
+        "Pan American (PAN-AM)"
+    ],
+    "VI": [
+        "Pan American (PAN-AM)"
+    ],
+    "SC": [
+        "Seychelles to East Africa System (SEAS)",
+        "PEACE Cable"
+    ],
+    "MF": [
+        "Southern Caribbean Fiber",
+        "Saint Maarten Puerto Rico Network One (SMPR-1)"
+    ],
+    "WS": [
+        "Tui-Samoa",
+        "Southern Cross NEXT",
+        "Samoa-American Samoa (SAS)"
+    ],
+    "PW": [
+        "SEA-US"
+    ],
+    "BD": [
+        "SeaMeWe-5",
+        "SeaMeWe-4"
+    ],
+    "SH": [
+        "South Atlantic Express (SAEx1)"
+    ],
+    "BL": [
+        "Southern Caribbean Fiber"
+    ],
+    "KI": [
+        "Southern Cross NEXT"
+    ],
+    "TK": [
+        "Southern Cross NEXT"
+    ],
+    "PM": [
+        "St. Pierre and Miquelon Cable"
+    ],
+    "TO": [
+        "Tonga Domestic Cable Extension (TCDE)",
+        "Tonga Cable"
+    ],
+    "WF": [
+        "Tui-Samoa"
+    ],
+    "TG": [
+        "West African Cable System (WACS)"
+    ],
+    "CG": [
+        "West African Cable System (WACS)"
+    ]
+}
