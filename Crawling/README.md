@@ -1,9 +1,13 @@
 # Crawling
 
 ## Set Up
+We recommend using database for data storage. 
+For our experiment, we used [MongoDB](https://www.mongodb.com/)
+
 ### Output Schema
 We design our crawler to output two set of data for each run on each country. 
-'''
+
+```
 run: {
     country_code: Alpha-2 country code for the country crawled, 
     start_time: Timestamp for starting the experiment
@@ -28,7 +32,7 @@ request: {
         }, 
     ]
 }
-'''
+```
 
 ## Data
 
