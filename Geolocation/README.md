@@ -5,6 +5,13 @@ python 3.6 is required to run this code
 In the `config.json` file, please specify the MongoDB connection string under `mongo_str` to allow the scripts to connect to the database. 
 In the `config.json` file, please specify the RIPE Atlas API under `ripe_api` to allow the scripts to generate traceroute measurements. 
 
+### Python dependencies
+```
+pymongo
+ipaddress
+socket
+```
+
 ## Usage
 
 ### Command
